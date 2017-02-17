@@ -1,0 +1,114 @@
+#registration #cart {
+  color: #fff !important;
+  background-color: #333 !important;
+  margin: 20px 0;
+}
+
+#registration #cart .emphasis {
+  color: #5a91ed !important;
+}
+
+#registration #cart .form-header {
+  padding: 5px;
+}
+
+#registration #cart .table {
+  width: 755px !important;
+  display: block;
+}
+
+#registration #cart .table-header {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+#registration #cart .table-header .table-cell {
+  font-weight: bold;
+}
+
+#registration #cart .table-body {
+  border-bottom: solid 1px rgb(240, 240, 240);
+  padding: 5px;
+}
+
+#registration #cart .table-group {
+  border-bottom: solid 1px rgba(240, 240, 240, 0.1);
+}
+
+#registration #cart .table-group:last-child {
+  border-bottom: 0;
+}
+
+#registration #cart .table-row {
+  width: 100%;
+  padding: 5px;
+  display: flex;
+  -js-display: flex;
+}
+
+#registration #cart .date {
+  color: #dff0d8 !important;
+}
+
+#registration #cart .table-cell {
+  flex: 1;
+  -js-flex: 1;
+  padding: 5px;
+}
+
+#registration #cart .table-cell[flex="40"],
+#registration #cart .table-cell[data-flex="40"],
+#registration #cart .table-cell.flex-40 {
+  flex-basis: 40%;
+  -js-flex-basis: 40%;
+}
+
+#registration #cart .table-cell.rowspan {
+  flex: 3 1 20%;
+  -js-flex: 3 1 20%;
+}
+
+#registration #cart .filter {
+  font-size: 12px;
+}
+
+#registration #cart .text-success {
+  color: #dff0d8 !important;
+}
+
+#registration #cart .block {
+  display: block;
+}
+
+#registration #cart input.form-control {
+  width: 100%;
+  background-color: white;
+  color: black;
+}
+
+#registration #cart input.form-control.form-error {
+  border-color: red;
+  color: red;
+}
+
+#registration .error2 {
+  font-size: 14px;
+  color: black;
+  display: table;
+  margin: 5px 0 15px;
+  background: #fff;
+  border-left: 4px solid #dc3232;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+  margin: 5px 15px 25px;
+  padding: 1px 12px;
+}
+
+#registration .hide { display: none !important; }
+
+#registration .wpcf7-form-control {
+  color: white;
+}
+
+#registration #cart .sl {
+  color: rgba(255, 255, 0, 0.68);
+}

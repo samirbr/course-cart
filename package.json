@@ -1,0 +1,25 @@
+{
+  "name": "course-cart",
+  "version": "1.0.0",
+  "description": "A seminar courtse cart.",
+  "main": "bootstrap.js",
+  "repository": "git@github.com:samirbr/course-cart.git",
+  "author": "Samir El Aouar <samirbr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^7.0.5",
+    "@types/react": "^15.0.10",
+    "@types/react-dom": "^0.14.23",
+    "@types/whatwg-fetch": "^0.0.33",
+    "awesome-typescript-loader": "^3.0.4",
+    "es5-shim": "^4.5.9",
+    "es6-shim": "^0.35.3",
+    "es7-shim": "^6.0.0",
+    "fetch": "^1.1.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "typescript": "^2.1.6",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  }
+}
